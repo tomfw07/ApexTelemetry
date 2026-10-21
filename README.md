@@ -115,7 +115,7 @@ The project is currently in its initial development stage.
 - [ ] Export analysis reports
 - [ ] Add more advanced performance comparisons
 
-## 📊 Future Development
+##  Future Development
 
 The long-term goal is to develop ApexTelemetry into a more comprehensive motorsport data analysis application.
 
