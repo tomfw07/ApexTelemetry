@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "suzuka-2025-verstappen-norris-qualifying",
+    "date": "2025-04-05",
+    "category": "QUALIFYING ANALYSIS",
+    "title": "Suzuka 2025: Verstappen's 12-Millisecond Qualifying Edge",
+    "excerpt": "Max Verstappen beat Lando Norris to pole position at Suzuka by just 0.012 seconds. Here's what the numbers tell us — and what they cannot prove.",
+    "body": [
+      "Twelve milliseconds separated Max Verstappen and Lando Norris in a qualifying session where every fraction of a second mattered. Verstappen secured pole position for the 2025 Japanese Grand Prix with a lap of 1:26.983, narrowly ahead of Norris on 1:26.995.",
+      "The margin was just 0.012 seconds. Across Suzuka's demanding combination of fast corners, direction changes and heavy braking zones, that is an exceptionally small difference in overall lap time.",
+      "WHAT THE DATA SHOWS",
+      "• Verstappen recorded a lap time of 86.983 seconds.",
+      "• Norris recorded a lap time of 86.995 seconds.",
+      "• The difference was 0.012 seconds, with Verstappen faster overall.",
+      "• The recorded laps used for this comparison were Verstappen's lap 16 and Norris's lap 14 in the dataset.",
+      "A lap-time comparison establishes the final result, but it does not by itself explain where the difference originated. Sector times and aligned telemetry can help identify where the cars' recorded performance differed, provided the laps and data channels are compared consistently.",
+      "WHAT IT DOESN’T PROVE",
+      "The 12-millisecond gap does not prove that one driver was better under braking, carried more speed through a particular corner, or had a superior car setup. Those explanations require supporting evidence from the relevant telemetry, sector data and session context.",
+      "Telemetry is most useful when it helps test a specific explanation rather than simply presenting a graph. Differences in speed, throttle, braking and racing line may point towards areas worth investigating, but they should not be treated as proof of cause on their own.",
+      "The takeaway is simple: Verstappen was faster over the complete lap by an incredibly narrow margin. Explaining exactly why requires more than the final lap times."
+    ],
+    "evidence": [
+      "FastF1 timing and telemetry data for the 2025 Japanese Grand Prix qualifying session.",
+      "Verstappen comparison lap: 1:26.983 (86.983 seconds), lap 16.",
+      "Norris comparison lap: 1:26.995 (86.995 seconds), lap 14.",
+      "Lap-time difference calculated from the two recorded times: 0.012 seconds (12 milliseconds)."
+    ],
+    "caveat": "This is an educational comparison based on recorded session data. The selected laps may differ in track conditions, tyre state, fuel load or other factors. The lap-time gap alone does not establish the cause of the performance difference."
+  }
+]
